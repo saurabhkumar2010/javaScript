@@ -28,8 +28,8 @@ const user = {
 // }
 
 
-// Arrow function 
-// () => {}
+// Arrow function : In simply world in arrow function we don't write the function keyword and hold the function value in a variable and we use arrow (=>) after parameter parenthesis
+// () => {}            
 
 
 // const chai =  () => {
@@ -54,3 +54,11 @@ console.log(addTwo(3, 4));
 // const myArray = [2, 5, 3, 7, 8]
 
 // myArray.forEach()
+
+
+
+
+
+
+
+
